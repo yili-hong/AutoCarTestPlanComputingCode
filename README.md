@@ -4,7 +4,7 @@ This public GitHub repository contains the R Program for the paper "Planning Rel
 
 This public GitHub repository contains nine files, as listed below.
 
-(1) readme.txt 
+(1) readme.md 
 
 (2) waymo.bayes.we.altp.gibbs.obj: The posterior inputs used in R.
 
