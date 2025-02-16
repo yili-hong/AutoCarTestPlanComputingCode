@@ -2,7 +2,7 @@
 
 This public GitHub repository contains the R Program for the paper "Planning Reliability Assurance Tests for Autonomous Vehicles Based on Disengagement Events Data" by Simin Zheng, Lu Lu, Yili Hong, and Jian Liu. The paper is published at IISE Transactions. 
 
-This public GitHub repository contains 12 files, listed below.
+This public GitHub repository contains one directory and 11 files, listed below.
 
 (1) readme.md  
 
